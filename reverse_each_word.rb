@@ -1,3 +1,3 @@
 array = ("hello there, and how are you?")
 
-array.collet {|i| i.reverse!}
+array.collect {|i| i.reverse!}
